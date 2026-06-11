@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bare Shoulders Warm Sheets
+
+This log tracks the cryptographic history and versioning for the song **Bare Shoulders Warm Sheets** (bare-shoulders-warm-sheets).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T19:48:58.298128 | `v1` | `c28ec7907a813c5fc570dec5d5bffe3b9869dee19e7305f98e8399f93194172a` | `dffc236e2c18e91a2bec789d39010d11d18295fcc2f93268a8fa6558d2c63fd8` | `2026-06-11_bare-shoulders-warm-sheets-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
